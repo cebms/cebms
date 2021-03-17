@@ -4,4 +4,6 @@ of my learning on React ⚛️, React Native and things related. I am passionate
 During my free time, I enjoy playing PC games 🕹️, watching movies 📺 and reading books 📚. On this profile you will find a few of
 my personal projects and my attempts to make some cool applications so I can learn more.
 
+🤖 Main interests: Robotics, 3D printing, microcontrollers, IoT and web/mobile development
+
 PS: Favorite game: Rainbow Six Siege 🔫 | Favorite movie: The imitation game 💻 | Favorite book: 1984 👁️</p>
